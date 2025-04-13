@@ -25,11 +25,6 @@ La paradoja: **Cambiar de puerta aumenta las chances de ganar de 1/3 a 2/3**.
 
 ---
 
-## 📂 Estructura del proyecto
-
-
----
-
 ## 🛠️ Cómo correr el proyecto
 
 1. Cloná el repositorio o descargalo como ZIP:
