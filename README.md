@@ -29,4 +29,4 @@ La paradoja: **Cambiar de puerta aumenta las chances de ganar de 1/3 a 2/3**.
 
 1. Cloná el repositorio o descargalo como ZIP:
    ```bash
-   git clone https://github.com/TU_USUARIO/JuegoMontyHall.git
+   git clone https://github.com/lucafattorinii/JuegoMontyHall.git
